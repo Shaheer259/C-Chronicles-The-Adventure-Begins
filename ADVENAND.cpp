@@ -1,4 +1,3 @@
-//pf final project first semester AUMC 2022
 #include <iostream>
 #include <Windows.h>
 #include <iomanip>                              //for setw
